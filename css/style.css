@@ -1283,7 +1283,7 @@ input[type="text"] {
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: url(https://img.cakhanif.me/loader.gif) center no-repeat #fff;
+  background: url(https://cakhanif.me/img/loader.gif) center no-repeat #fff;
 }
 
 .js .animate-box {
